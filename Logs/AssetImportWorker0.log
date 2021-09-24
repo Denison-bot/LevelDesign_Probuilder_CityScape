@@ -144,3 +144,4 @@ Received Import Request.
 Start importing Assets/Materials/City.mat using Guid(5a8143def2fe91a47bc2265106ad3a88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5566c4b150821f23bde64008c4e52ad') in 0.267003 seconds 
   Import took 0.271321 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
